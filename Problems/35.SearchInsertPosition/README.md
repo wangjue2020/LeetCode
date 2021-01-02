@@ -30,12 +30,14 @@ nums contains distinct values sorted in ascending order.
 **Solution**  
 
 * 暴力解法  
-go over 整个array，直接查找  
-Time complexity: O(n)   
-Space complexity: O(1)
+
+    go over 整个array，直接查找  
+    Time complexity: O(n)   
+    Space complexity: O(1)
 
 * 二分法
-用left，right双指针来锁定array的查询范围，每次先查询从left到right的中间位置mid的大小，来判断target是在当前范围的前半部分还是后半部分，并更新left、right。  
-可以用于已经按照一定规律sorted的array查询  
-Time complexity:O(logn)  
-Space complexity: O(1)
+
+    用left，right双指针来锁定array的查询范围，每次先查询从left到right的中间位置mid的大小，来判断target是在当前范围的前半部分还是后半部分，并更新left、right。  
+    可以用于已经按照一定规律sorted的array查询  
+    Time complexity:O(logn)  
+    Space complexity: O(1)
