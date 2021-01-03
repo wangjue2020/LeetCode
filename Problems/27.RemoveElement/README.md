@@ -56,7 +56,7 @@ Constraints:
     Time complexity:O(n^2)     
     Space complexity: O(1)
     
-* 双指针法
+* 双指针法  
     一个指针A用于go over 整个array，另一个指针B记录下一个available的index。
     在循环过程中，如果遇到与val相同的元素，则指针B停在这里，等待下一个与val不相同的元素放在此位置，指针A继续指向下一个来进行判断。如果遇到与val不相同的元素，则将元素放在available index（即指针B所指向的地方），指针B++。  
       
