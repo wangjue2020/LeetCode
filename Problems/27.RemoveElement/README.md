@@ -53,7 +53,7 @@ Constraints:
 
     go over 整个array，每一找到第i位置的元素与val相同时，就将后面所有元素nums[i] = nums[i+1], 向前移。之后在再继续从i开始重复之前的操作  
     
-    Time complexity:O($$n^2$$)     
+    Time complexity:On^2)     
     Space complexity: O(1)
     
 * 双指针法
