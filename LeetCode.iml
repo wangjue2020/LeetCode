@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/11.ContainerWithMostWater" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/203.RemoveLinkedListElements" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/237.DeleteNodeInALinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/707.DesignLinkedList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
