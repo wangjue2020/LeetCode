@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/209.MinimumSizeSubarraySum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/59.SpiralMatrixII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/11.ContainerWithMostWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/203.RemoveLinkedListElements" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
