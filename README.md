@@ -12,12 +12,15 @@ LeetCode 解题及思路
         [203. Remove LinkedList Elements](./Problems/203.RemoveLinkedListElements)  
         [237. Delete Node in a LinkedList](./Problems/237.DeleteNodeInALinkedList)  
         [707. Design Linked List](./Problems/707.DesignLinkedList)  
-        [206. Reverse Linked List](./Problems/206.ReverseLinkedList)
+        [206. Reverse Linked List](./Problems/206.ReverseLinkedList)  
+        [142. Linked List Cycle II](./Problems/142.LinkedListCyleII)
         
 * By Algorithm
     * 二分法  
         [35. Search Insert Position](./Problems/35.SearchInsertPosition)    
     
+    * 快慢指针  
+        [142. Linked List Cycle II](./Problems/142.LinkedListCyleII)
     * Double Pointer  
         [27. Remove Element](./Problems/27.RemoveElement)  
         [11. Container With Most Water](./Problems/11.ContainerWithMostWater)  
