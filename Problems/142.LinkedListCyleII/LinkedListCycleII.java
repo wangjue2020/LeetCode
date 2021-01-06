@@ -8,7 +8,7 @@ public class LinkedListCycleII {
         ListNode fast = head;
         ListNode slow = head;
         boolean f = false;
-        while (fast != null && fast.next != null && slow!=null & slow.next != null && slow.next.next !=null){
+        while (slow != null && slow.next != null && fast!=null & fast.next != null && fast.next.next !=null){
             if(fast == slow && f){
                 ListNode n1 = head;
                 ListNode n2 = fast;
@@ -19,8 +19,8 @@ public class LinkedListCycleII {
                 return n1;
             }else{
                 f= true;
-                fast = fast.next;
-                slow = slow.next.next;
+                slow = slow.next;
+                fast = fast.next.next;
             }
         }
         return null;
