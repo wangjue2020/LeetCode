@@ -7,7 +7,7 @@ There is a cycle in a linked list if there is some node in the list that can be 
 Notice that you should not modify the linked list  
 
 Example 1:  
- ![cycled linked list](../142.LinkedListCyleII/circularlinkedlist.png)
+ ![cycled linked list](/circularlinkedlist.png)
 > Input: head = [3,2,0,-4], pos = 1  
   Output: tail connects to node index 1  
   Explanation:  
