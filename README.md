@@ -15,7 +15,10 @@ LeetCode 解题及思路
         [206. Reverse Linked List](./Problems/206.ReverseLinkedList)  
         [142. Linked List Cycle II](./Problems/142.LinkedListCycleII)
         [141. Linked List Cycle](./Problems/141.LinkedListCycle)
-                
+    
+    * HashTable  
+        [242. ValidAnagram](./Problems/242.ValidAnagram)  
+                 
 * By Algorithm
     * 二分法  
         [35. Search Insert Position](./Problems/35.SearchInsertPosition)    
