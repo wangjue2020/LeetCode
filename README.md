@@ -17,7 +17,8 @@ LeetCode 解题及思路
         [141. Linked List Cycle](./Problems/141.LinkedListCycle)
     
     * HashTable  
-        [242. ValidAnagram](./Problems/242.ValidAnagram)  
+        [242. Valid Anagram](./Problems/242.ValidAnagram)  
+        [349. Intersection of Two Arrays](./Problems/349.IntersectionofTwoArrays)  
                  
 * By Algorithm
     * 二分法  
