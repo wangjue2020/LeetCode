@@ -19,7 +19,8 @@ LeetCode 解题及思路
     * HashTable  
         [242. Valid Anagram](./Problems/242.ValidAnagram)  
         [349. Intersection of Two Arrays](./Problems/349.IntersectionofTwoArrays)  
-                 
+        [202. Happy Number](Problems/202.HappyNumber)  
+              
 * By Algorithm
     * 二分法  
         [35. Search Insert Position](./Problems/35.SearchInsertPosition)    

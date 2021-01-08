@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/141.LinkedListCycle" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/242.ValidAnagram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/349.IntersectionofTwoArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/202.HappyNumber" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
