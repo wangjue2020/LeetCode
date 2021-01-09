@@ -17,6 +17,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/242.ValidAnagram" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/349.IntersectionofTwoArrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/202.HappyNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1.TwoSum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
