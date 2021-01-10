@@ -18,7 +18,8 @@ LeetCode 解题及思路
     
     * HashTable   
         [1. Two Sum](./Problems/1.TwoSum)  
-        [15. 3 Sum](./Problems/15.ThreeSum)
+        [15. 3 Sum](./Problems/15.ThreeSum)  
+        [18. 4 Sum](./Problems/18.4Sum)
         [202. Happy Number](Problems/202.HappyNumber)   
         [242. Valid Anagram](./Problems/242.ValidAnagram)  
         [349. Intersection of Two Arrays](./Problems/349.IntersectionofTwoArrays)  
@@ -36,6 +37,8 @@ LeetCode 解题及思路
     * Double Pointer  
         [27. Remove Element](./Problems/27.RemoveElement)  
         [11. Container With Most Water](./Problems/11.ContainerWithMostWater)  
+        [15. 3 Sum](./Problems/15.ThreeSum)  
+        [18. 4 Sum](./Problems/18.4Sum)
        
     * Sliding Window  
         [209. Minimum Size Subarray Sum](./Problems/209.MinimumSizeSubarraySum)   

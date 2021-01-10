@@ -23,6 +23,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/2.AddTwoNumbers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/383.RansomNote" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/15.ThreeSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/18.4Sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
