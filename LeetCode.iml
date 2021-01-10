@@ -3,27 +3,27 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Problems/35.SearchInsertPosition" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/27.RemoveElement" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/209.MinimumSizeSubarraySum" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/59.SpiralMatrixII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/11.ContainerWithMostWater" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/203.RemoveLinkedListElements" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/237.DeleteNodeInALinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/35.SearchInsertPosition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/27.RemoveElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/209.MinimumSizeSubarraySum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/59.SpiralMatrixII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/11.ContainerWithMostWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/203.RemoveLinkedListElements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/237.DeleteNodeInALinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/707.DesignLinkedList" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/206.ReverseLinkedList" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/142.LinkedListCycleII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/141.LinkedListCycle" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/242.ValidAnagram" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/349.IntersectionofTwoArrays" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/202.HappyNumber" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/1.TwoSum" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/127.WordLadder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/206.ReverseLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/142.LinkedListCycleII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/141.LinkedListCycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/242.ValidAnagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/301-400/349.IntersectionofTwoArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/202.HappyNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/1.TwoSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/127.WordLadder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/454.4SumII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/2.AddTwoNumbers" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/383.RansomNote" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/15.ThreeSum" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Problems/18.4Sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/2.AddTwoNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/301-400/383.RansomNote" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/15.ThreeSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/18.4Sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

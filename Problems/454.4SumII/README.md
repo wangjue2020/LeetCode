@@ -18,5 +18,5 @@ The two tuples are:
 * HashMap  
 use a HashMap recording the sum and occurrence of the sum for A, B.(sum is A[i]+B[j] for any i or j).  
 repeat the step to get second HashMap for C, D.   
-like the way to check [1.two sum](../1.TwoSum) to check whether there exists any pair of sums whose sum is 0.  
+like the way to check [1.two sum](../1-100/1.TwoSum) to check whether there exists any pair of sums whose sum is 0.  
 Time Complexity: O(n^2)

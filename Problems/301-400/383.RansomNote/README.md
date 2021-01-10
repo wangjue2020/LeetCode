@@ -16,7 +16,7 @@ Output: true
 
   
 **Solution**  
-some solution as  [242. Valid Anagram](../242.ValidAnagram)  
+some solution as  [242. Valid Anagram](../201-300/242.ValidAnagram)  
 * HashMap  
     record the occurrence of each alphabet in first string, and compare to the second string.  
     Time Complexity: O(n)  
