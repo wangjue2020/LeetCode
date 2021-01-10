@@ -20,6 +20,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1.TwoSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/127.WordLadder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/454.4SumII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/2.AddTwoNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/383.RansomNote" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

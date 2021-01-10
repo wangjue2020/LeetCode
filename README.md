@@ -20,9 +20,9 @@ LeetCode 解题及思路
         [242. Valid Anagram](./Problems/242.ValidAnagram)  
         [349. Intersection of Two Arrays](./Problems/349.IntersectionofTwoArrays)  
         [202. Happy Number](Problems/202.HappyNumber)    
-        [1. Two Sum](./Problems/1.TwoSum)
+        [1. Two Sum](./Problems/1.TwoSum)  
         [454. 4 Sum II](./Problems/454.4SumII)  
-        
+        [383. Ransom Note](./Problems/383.RansomNote)
               
 * By Algorithm
     * 二分法  
