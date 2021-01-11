@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/15.ThreeSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/18.4Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/301-400/344.ReverseString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/541.ReverseStringII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
