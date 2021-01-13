@@ -34,6 +34,7 @@ LeetCode 解题及思路
         [20. Valid Parenthese](Problems/1-100/20.ValidParenthese)  
         [225. Implement Stack Using Queue](Problems/201-300/225.ImplementStackUsingQueue)  
         [232. Implement Queue Using Stack](Problems/201-300/232.ImplementQueueUsingStack)  
+        [1047. Remove All Adjacent Duplicates In String](Problems/1047.RemoveAllAdjacentDuplicatesInString)  
         
         
 * By Algorithm
