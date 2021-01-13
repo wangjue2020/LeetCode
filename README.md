@@ -31,8 +31,10 @@ LeetCode 解题及思路
         [541. Reverse String II](Problems/541.ReverseStringII)
         
     * Stack/Queue  
+        [20. Valid Parenthese](Problems/1-100/20.ValidParenthese)  
+        [225. Implement Stack Using Queue](Problems/201-300/225.ImplementStackUsingQueue)  
         [232. Implement Queue Using Stack](Problems/201-300/232.ImplementQueueUsingStack)  
-        [225. Implement Stack Using Queue](Problems/201-300/225.ImplementStackUsingQueue)
+        
         
 * By Algorithm
     * 二分法  
