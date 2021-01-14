@@ -31,6 +31,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/20.ValidParenthese" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1047.RemoveAllAdjacentDuplicatesInString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/150.EvaluateReversePolishNotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/104.MaximumDepthOfBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
