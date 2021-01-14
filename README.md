@@ -26,7 +26,7 @@ LeetCode 解题及思路
         [383. Ransom Note](Problems/301-400/383.RansomNote)  
         [454. 4 Sum II](Problems/454.4SumII)  
               
-    * String
+    * String  
         [344. Reverse String](Problems/301-400/344.ReverseString)  
         [541. Reverse String II](Problems/541.ReverseStringII)
         
@@ -37,7 +37,7 @@ LeetCode 解题及思路
         [232. Implement Queue Using Stack](Problems/201-300/232.ImplementQueueUsingStack)  
         [1047. Remove All Adjacent Duplicates In String](Problems/1047.RemoveAllAdjacentDuplicatesInString)  
         
-    * Binary Tree
+    * Binary Tree  
         [104. Maximum Depth Of Binary Tree](Problems/101-200/104.MaximumDepthOfBinaryTree)  
         [111. Minimum Depth of Binary Tree](Problems/101-200/111.MinimunDepthOfBinaryTree)  
         
