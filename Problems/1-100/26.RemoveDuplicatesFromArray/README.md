@@ -24,5 +24,6 @@ Your function should return length = 5, with the first five elements of nums bei
 
 **Solution**
 * Double Pointer  
-use one pointer to go through the array, and the other one to indicate the next available index of array. 
-Time Complexity: O(n)
+    use one pointer to go through the array, and the other one to indicate the next available index of array.   
+    
+    Time Complexity: O(n)
