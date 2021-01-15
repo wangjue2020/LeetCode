@@ -9,6 +9,7 @@ LeetCode 解题及思路
         [209. Minimum Size Subarray Sum](Problems/201-300/209.MinimumSizeSubarraySum)  
         
     * LinkedList  
+        [21. Merge Two Sorted List](Problems/1-100/21.MergeTwoSortedList)
         [141. Linked List Cycle](Problems/101-200/141.LinkedListCycle)  
         [142. Linked List Cycle II](Problems/101-200/142.LinkedListCycleII)  
         [203. Remove LinkedList Elements](Problems/201-300/203.RemoveLinkedListElements)  

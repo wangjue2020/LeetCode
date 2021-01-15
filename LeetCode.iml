@@ -35,6 +35,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/lib" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/111.MinimunDepthOfBinaryTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/110.BalancedBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/21.MergeTwoSortedList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
