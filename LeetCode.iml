@@ -38,6 +38,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/21.MergeTwoSortedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/26.RemoveDuplicatesFromArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/53.MaximumSubarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/66.PlusOne" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
