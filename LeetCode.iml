@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/88.MergeSortedArray" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/101.SymmetricTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/108.ConvertSortedArrayToBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/121.BestTimetoBuyandSellStock" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
