@@ -47,6 +47,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/125.ValidPalindrome" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/136.SingleNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/155.MinStack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/167.TwoSumII-InputArraySorted" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
