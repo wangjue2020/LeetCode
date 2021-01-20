@@ -57,6 +57,9 @@ LeetCode 解题及思路
         [110. Balanced Binary Tree](Problems/101-200/110.BalancedBinaryTree)  
         [111. Minimum Depth of Binary Tree](Problems/101-200/111.MinimunDepthOfBinaryTree)  
         
+    * Bit Manipulation  
+        [191. Number of 1 Bites](Problems/101-200/191.Numberof1Bits)  
+        
         
 * By Algorithm
     * 二分法  
