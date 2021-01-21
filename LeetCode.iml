@@ -52,6 +52,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/191.Numberof1Bits" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/198.HouseRobber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/219.ContainsDuplicateII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/226.InvertBinaryTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
