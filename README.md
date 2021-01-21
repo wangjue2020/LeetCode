@@ -63,6 +63,9 @@ LeetCode 解题及思路
     * Bit Manipulation  
         [191. Number of 1 Bites](Problems/101-200/191.Numberof1Bits)  
         
+    * Math  
+        [263. Ugly Number](Problems/201-300/263.UglyNumber)  
+        
         
 * By Algorithm
     * 二分法  
