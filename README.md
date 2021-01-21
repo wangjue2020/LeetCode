@@ -17,6 +17,7 @@ LeetCode 解题及思路
         [169. Majority Element](Problems/101-200/169.MajorityElement)  
         [198. House Robber](Problems/101-200/198.HouseRobber)  
         [209. Minimum Size Subarray Sum](Problems/201-300/209.MinimumSizeSubarraySum)  
+        [219. Contains Duplicate II](Problems/201-300/219.ContainsDuplicateII)  
         
     * LinkedList  
         [2. Add Two Numbers](Problems/1-100/2.AddTwoNumbers)  
