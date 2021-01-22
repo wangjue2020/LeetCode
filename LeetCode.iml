@@ -56,6 +56,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/263.UglyNumber" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/201-300/283.MoveZeros" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/301-400/342.PowerOfFour" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/437.PathSumIII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
