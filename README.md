@@ -66,6 +66,7 @@ LeetCode 解题及思路
         
     * Math  
         [263. Ugly Number](Problems/201-300/263.UglyNumber)  
+        [342. Power of Four](Problems/301-400/342.PowerOfFour)  
         
         
 * By Algorithm
