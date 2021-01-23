@@ -45,7 +45,8 @@ LeetCode 解题及思路
     * String  
         [125. Valid Palindrome](Problems/101-200/125.ValidPalindrome)  
         [344. Reverse String](Problems/301-400/344.ReverseString)  
-        [541. Reverse String II](Problems/541.ReverseStringII)
+        [541. Reverse String II](Problems/541.ReverseStringII)  
+        [821. Shortest Distance to a Character](Problems/821.ShortestDistancetoaCharacter)  
         
     * Stack/Queue  
         [20. Valid Parenthese](Problems/1-100/20.ValidParenthese)  
