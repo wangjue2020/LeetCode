@@ -20,6 +20,7 @@ LeetCode 解题及思路
         [219. Contains Duplicate II](Problems/201-300/219.ContainsDuplicateII)  
         [283. Move Zeros](Problems/201-300/283.MoveZeros)  
         [455. Assign Cookies](Problems/455.AssignCookies)  
+        [575. Distribute Candies](Problems/575.DistributeCandies)  
         
     * LinkedList  
         [2. Add Two Numbers](Problems/1-100/2.AddTwoNumbers)  

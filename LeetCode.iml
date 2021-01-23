@@ -58,6 +58,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/301-400/342.PowerOfFour" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/437.PathSumIII" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/455.AssignCookies" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/575.DistributeCandies" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
