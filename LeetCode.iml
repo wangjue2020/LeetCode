@@ -62,6 +62,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/821.ShortestDistancetoaCharacter" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1332.RemovePalindromicSubsequences" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/3.LongestSubstringWithoutRepeatingCharacters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/5.LongestPalindromicSubstring" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
