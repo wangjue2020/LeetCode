@@ -43,6 +43,7 @@ LeetCode 解题及思路
         [454. 4 Sum II](Problems/454.4SumII)  
               
     * String  
+        [3. Longest Substring Without Repeating Characters](Problems/1-100/3.LongestSubstringWithoutRepeatingCharacters)  
         [125. Valid Palindrome](Problems/101-200/125.ValidPalindrome)  
         [344. Reverse String](Problems/301-400/344.ReverseString)  
         [541. Reverse String II](Problems/541.ReverseStringII)  
