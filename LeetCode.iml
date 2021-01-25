@@ -64,6 +64,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/3.LongestSubstringWithoutRepeatingCharacters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/5.LongestPalindromicSubstring" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/17.LetterCombinationsofaPhoneNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/19.RemoveNthNodeFromEndofList" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
