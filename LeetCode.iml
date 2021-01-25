@@ -60,6 +60,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/455.AssignCookies" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/575.DistributeCandies" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/821.ShortestDistancetoaCharacter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1332.RemovePalindromicSubsequences" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
