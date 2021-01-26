@@ -26,6 +26,7 @@ LeetCode 解题及思路
         [2. Add Two Numbers](Problems/1-100/2.AddTwoNumbers)  
         [19. Remove Nth Node From End of List](Problems/1-100/19.RemoveNthNodeFromEndofList)  
         [21. Merge Two Sorted List](Problems/1-100/21.MergeTwoSortedList)  
+        [24. Swap Nodes in Pairs](Problems/1-100/24.SwapNodesinPairs)  
         [141. Linked List Cycle](Problems/101-200/141.LinkedListCycle)  
         [142. Linked List Cycle II](Problems/101-200/142.LinkedListCycleII)  
         [203. Remove LinkedList Elements](Problems/201-300/203.RemoveLinkedListElements)  
