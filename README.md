@@ -62,6 +62,7 @@ LeetCode 解题及思路
         [1047. Remove All Adjacent Duplicates In String](Problems/1047.RemoveAllAdjacentDuplicatesInString)  
         
     * Binary Tree  
+        [22. Generate Parentheses](Problems/1-100/22.GenerateParentheses)  
         [101. Symmetric Tree](Problems/101-200/101.SymmetricTree)  
         [104. Maximum Depth Of Binary Tree](Problems/101-200/104.MaximumDepthOfBinaryTree)  
         [108. Convert Sorted Array To Binary Search Tree](Problems/101-200/108.ConvertSortedArrayToBinarySearchTree)  
