@@ -4,6 +4,33 @@ import java.util.List;
 import java.util.Queue;
 
 public class GenerateParentheses {
+    /**
+     * DFS
+     * @param n
+     * @return
+     */
+    public List<String> generateParenthesis1(int n) {
+        List<String> ans = new ArrayList();
+        backtrack(ans, "", 0, 0, n);
+        return ans;
+    }
+
+    public void backtrack(List<String> ans, String cur, int open, int close, int max){
+        if (cur.length() == max * 2) {
+            ans.add(cur);
+            return;
+        }
+
+        if (open < max)
+            backtrack(ans, cur+"(", open+1, close, max);
+        if (close < open)
+            backtrack(ans, cur+")", open, close+1, max);
+    }
+    /**
+     * BFS
+     * @param n
+     * @return
+     */
     public List<String> generateParenthesis(int n) {
         Queue<String> ans = new ArrayDeque<>();
         Queue<int[]> help = new ArrayDeque<>();
