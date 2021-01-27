@@ -5,6 +5,7 @@ LeetCode 解题及思路
         [11. Container With Most Water](./Problems/1-100/11.ContainerWithMostWater)  
         [26. Remove Duplicates From Array](Problems/1-100/26.RemoveDuplicatesFromArray)  
         [27. Remove Element](./Problems/1-100/27.RemoveElement)  
+        [31. Next Permutation](Problems/1-100/31.NextPermutation)  
         [35. Search Insert Position](Problems/1-100/35.SearchInsertPosition)  
         [53. Maximum Subarray](Problems/1-100/53.MaximumSubarray)  
         [59. Spriral Matrix II](Problems/1-100/59.SpiralMatrixII)  

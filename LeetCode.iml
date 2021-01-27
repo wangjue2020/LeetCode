@@ -67,6 +67,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/19.RemoveNthNodeFromEndofList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/22.GenerateParentheses" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/24.SwapNodesinPairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/31.NextPermutation" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
