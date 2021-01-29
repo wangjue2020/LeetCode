@@ -69,6 +69,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/24.SwapNodesinPairs" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/31.NextPermutation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/33.SearchinRotatedSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/94.BinaryTreeInorderTraversal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
