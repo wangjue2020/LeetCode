@@ -72,6 +72,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/94.BinaryTreeInorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/145.BinaryTreePostorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/429.N-aryTreeLevelOrderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/590.N-aryTreePostorderTraversal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

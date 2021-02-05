@@ -76,6 +76,7 @@ LeetCode 解题及思路
         [226. Invert Binary Tree](Problems/201-300/226.InvertBinaryTree)  
         [429. N-ary Tree Level Order Traversal](Problems/429.N-aryTreeLevelOrderTraversal)  
         [437. Path Sum III](Problems/437.PathSumIII)  
+        [590. N-ary Tree Postorder Traversal](Problems/590.N-aryTreePostorderTraversal)  
         
     * Bit Manipulation  
         [191. Number of 1 Bites](Problems/101-200/191.Numberof1Bits)  
