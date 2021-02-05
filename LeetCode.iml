@@ -74,6 +74,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/429.N-aryTreeLevelOrderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/590.N-aryTreePostorderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/589.N-aryTreePreorderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1302.DeepestLeavesSum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

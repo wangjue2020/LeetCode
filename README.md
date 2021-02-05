@@ -78,6 +78,7 @@ LeetCode 解题及思路
         [437. Path Sum III](Problems/437.PathSumIII)  
         [589. N-ary Tree Preorder Traversal](Problems/589.N-aryTreePreorderTraversal)  
         [590. N-ary Tree Postorder Traversal](Problems/590.N-aryTreePostorderTraversal)  
+        [1032. Deepest Leaves Sum](Problems/1302.DeepestLeavesSum)  
         
     * Bit Manipulation  
         [191. Number of 1 Bites](Problems/101-200/191.Numberof1Bits)  
@@ -87,23 +88,5 @@ LeetCode 解题及思路
         [342. Power of Four](Problems/301-400/342.PowerOfFour)  
         
         
-* By Algorithm
-    * 二分法  
-        [35. Search Insert Position](Problems/1-100/35.SearchInsertPosition)    
-    
-    * 快慢指针  
-        [142. Linked List Cycle II](Problems/101-200/142.LinkedListCycleII)  
-        [141. Linked List Cycle](Problems/101-200/141.LinkedListCycle)
-                 
-    * Double Pointer  
-        [27. Remove Element](Problems/1-100/27.RemoveElement)  
-        [11. Container With Most Water](Problems/1-100/11.ContainerWithMostWater)  
-        [15. 3 Sum](Problems/1-100/15.ThreeSum)  
-        [18. 4 Sum](Problems/1-100/18.4Sum)
-       
-    * Sliding Window  
-        [209. Minimum Size Subarray Sum](Problems/201-300/209.MinimumSizeSubarraySum)   
-    
-    * DummyHeader  
-        [203. Remove LinkedList Elements](Problems/201-300/203.RemoveLinkedListElements)
-    
+* hard  
+    987
