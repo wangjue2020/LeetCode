@@ -78,6 +78,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/572.SubtreeofAnotherTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/965.UnivaluedBinaryTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/107.BinaryTreeLevelOrderTraversalII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/100.SameTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
