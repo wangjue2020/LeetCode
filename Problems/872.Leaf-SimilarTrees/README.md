@@ -27,6 +27,6 @@ Example 4:
  Output: true  
  
 **Solution**
-*DFS  
+* DFS  
 用dfs的方式go through 整个tree，所遇到的leaf的顺序即从左到右的顺序，并存储下来  
 Time Complexity : O(n)  
