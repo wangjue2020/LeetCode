@@ -82,6 +82,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/101-200/102.BinaryTreeLevelOrderTraversal" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/872.Leaf-SimilarTrees" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/814.BinaryTreePruning" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/669.TrimaBinarySearchTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
