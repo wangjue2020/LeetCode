@@ -82,6 +82,7 @@ LeetCode 解题及思路
         [572. Subtree of Another Tree](Problems/572.SubtreeofAnotherTree)  
         [589. N-ary Tree Preorder Traversal](Problems/589.N-aryTreePreorderTraversal)  
         [590. N-ary Tree Postorder Traversal](Problems/590.N-aryTreePostorderTraversal)  
+        [814. Binary Tree Pruning](Problems/814.BinaryTreePruning)  
         [872. Leaf-Similar Trees](Problems/872.Leaf-SimilarTrees)  
         [965. Univalued Binary Tree](Problems/965.UnivaluedBinaryTree)  
         [1032. Deepest Leaves Sum](Problems/1302.DeepestLeavesSum)  

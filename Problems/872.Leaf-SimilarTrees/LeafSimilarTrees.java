@@ -18,7 +18,7 @@ public class LeafSimilarTrees {
             }
             root = s.pop();
             if(root.left == null && root.right == null)
-                ans += String.valueOf(root.val);
+                ans += "#"+String.valueOf(root.val);
             root = root.right;
         }
         return ans;
