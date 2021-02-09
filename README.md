@@ -87,6 +87,7 @@ LeetCode 解题及思路
         [872. Leaf-Similar Trees](Problems/872.Leaf-SimilarTrees)  
         [965. Univalued Binary Tree](Problems/965.UnivaluedBinaryTree)  
         [1032. Deepest Leaves Sum](Problems/1302.DeepestLeavesSum)  
+        [1325. Delete Leaves With a Given Value](Problems/1325.DeleteLeavesWithAGivenValue)  
         
     * Bit Manipulation  
         [191. Number of 1 Bites](Problems/101-200/191.Numberof1Bits)  
