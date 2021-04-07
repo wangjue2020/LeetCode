@@ -84,6 +84,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Problems/814.BinaryTreePruning" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/669.TrimaBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Problems/1325.DeleteLeavesWithAGivenValue" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problems/1-100/6.ZigZagConversion" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -49,6 +49,7 @@ LeetCode 解题及思路
     * String  
         [3. Longest Substring Without Repeating Characters](Problems/1-100/3.LongestSubstringWithoutRepeatingCharacters)  
         [5. Longest Palindromic Substring](Problems/1-100/5.LongestPalindromicSubstring)  
+        [6. ZigZag Conversion](Problems/1-100/6.ZigZagConversion)  
         [17. Letter Combinations of a Phone Number](Problems/1-100/17.LetterCombinationsofaPhoneNumber)  
         [125. Valid Palindrome](Problems/101-200/125.ValidPalindrome)  
         [344. Reverse String](Problems/301-400/344.ReverseString)  
