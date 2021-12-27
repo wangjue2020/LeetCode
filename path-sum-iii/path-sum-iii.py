@@ -14,20 +14,11 @@ class Solution:
     def dfs(self, root, curPaths):
         if root == None:
             return 
-        
-        # print(root.val, curPaths)
-        curPaths_copy = []
-        for i in range(len(curPaths)):
-            cursum, curPath = curPaths[i]
-            cursum  += root.val
-            curPath.append(root.val)
-            if cursum == self.targetSum:
-                self.ans+=1
-            curPaths_copy.append([cursum, curPath])
-        curPaths = curPaths_copy
+        curPaths=[x+root.val for x in curPaths]
+        count = curPaths.count(self.targetSum)
+        self.ans += count
         if root.val == self.targetSum:
             self.ans += 1
-        curPaths.append([root.val,[root.val]])   
-        # print(curPaths)
-        self.dfs(root.left, curPaths)
-        self.dfs(root.right, curPaths)
+        curPaths.append(root.val)   
+        self.dfs(root.left, curPaths[:])
+        self.dfs(root.right, curPaths[:])
