@@ -1,30 +1,30 @@
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.left = None
-#         self.right = None
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
 
-class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        self.p = p
-        self.q = q
-        self.ancestor = None
-        self.dfs(root)
-        return self.ancestor
-        
-    def dfs(self, root):
-        if root== None:
-            return 0
-        cur = 0
-        if root == self.p or  root == self.q:
-            cur = 1   
-        
-        left = self.dfs(root.left)
-        right = self.dfs(root.right)
-        if left + right + cur>= 2:
-            if self.ancestor == None:
-                self.ancestor = root
-                return 0
-        else:
-            return max(left, max(cur,right))
+class Solution {
+    public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
+        LinkedList<TreeNode> linkedlist = new LinkedList<>();
+        linkedlist.offer(root);
+        int lower = p.val > q.val ? q.val : p.val;
+        int higher = p.val < q.val ? q.val : p.val;
+        while(!linkedlist.isEmpty()){
+            TreeNode cur = linkedlist.poll();
+            if ((cur.val > lower && cur.val < higher) || (cur.val == lower) || (cur.val == higher)){
+                return cur;
+            } else{
+                if (cur.left != null)
+                    linkedlist.offer(cur.left);
+                if (cur.right != null)
+                    linkedlist.offer(cur.right);
+            }
+        }
+        return null;
+    }
+}
