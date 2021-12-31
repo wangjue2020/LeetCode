@@ -18,8 +18,6 @@ class Solution:
             self.max_sum = cur_sum if cur_sum >= self.max_sum else self.max_sum
             return cur_sum
         else:
-            
-            
             cur_sum_l = root.val
             if root.left !=  None:
                 left = self.postorder(root.left)
@@ -29,7 +27,6 @@ class Solution:
                     self.max_sum = left if left > self.max_sum else self.max_sum
                 else:
                     cur_sum_l += left
-                
             cur_sum_r = root.val
             if root.right != None:
                 right = self.postorder(root.right)
