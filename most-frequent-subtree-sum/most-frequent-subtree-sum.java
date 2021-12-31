@@ -20,8 +20,6 @@ class Solution {
     public int max_count = 0;
     public int[] findFrequentTreeSum(TreeNode root) {
         this.dfs(root);
-        System.out.println(map_sum_count.toString());
-        System.out.println(map_count_sum.toString());
         List<Integer> ans = map_count_sum.get(max_count);
         int[] answer = new int[ans.size()];
         for(int i=0; i< ans.size(); i++){
