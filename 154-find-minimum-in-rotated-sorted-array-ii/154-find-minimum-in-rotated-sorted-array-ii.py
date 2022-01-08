@@ -6,9 +6,14 @@ class Solution:
             return nums[s]
         else:
             mid = (e-s)//2+s
-            left = self.findMinimum(nums, s, mid)
-            right = self.findMinimum(nums, mid+1, e)
-            
+            l = mid
+            while l-1 >= s and nums[l-1] == nums[l]:
+                l = l-1
+            left = self.findMinimum(nums, s, l)
+            r = mid+1
+            while r+1 <= e and nums[r+1] == nums[r]:
+                r = r+1
+            right = self.findMinimum(nums, r, e)
             if left <= right:
                 return left
             else:
