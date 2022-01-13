@@ -3,7 +3,7 @@ class Solution:
         sort = sorted(nums)
         mid = (sort[-1]+sort[0])//2
         reversed_num = self.reverse(nums)
-        nums = []
+        ans = []
         bst = self.buildbst(sort)
         for cur in reversed_num:
             count = 0
@@ -26,8 +26,8 @@ class Solution:
                     tmp.freq+=1
                     count += tmp.num_left
                     break
-            nums.append(count)
-        return self.reverse(nums)
+            ans.append(count)
+        return self.reverse(ans)
                         
     def reverse(self, nums):
         if len(nums) == 1:
