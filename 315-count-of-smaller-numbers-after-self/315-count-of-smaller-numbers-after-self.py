@@ -1,13 +1,10 @@
 class Solution:
     def countSmaller(self, nums):
         sort = sorted(nums)
-        # print(len(sort))
         mid = (sort[-1]+sort[0])//2
         reversed_num = self.reverse(nums)
         nums = []
         bst = self.buildbst(sort)
-        # for i in range(len(reversed_num)):
-        #     cur = reversed_num[i]
         for cur in reversed_num:
             count = 0
             tmp = bst
