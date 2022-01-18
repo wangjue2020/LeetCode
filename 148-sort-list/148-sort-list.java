@@ -10,26 +10,40 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        PriorityQueue<ListNode> pq = new PriorityQueue<>(new Comparator<ListNode>(){
-            @Override
-            public int compare(ListNode n1, ListNode n2){
-                if (n1.val < n2.val){
-                    return -1;
-                }else if (n1.val == n2.val){return 0;}
-                else{return 1;}
-            }
-        });
-        while (head != null){
-            pq.offer(head);
-            head = head.next;
+        if (head == null || head.next == null)
+            return head;
+        ListNode mid = computeMid(head);
+        ListNode left = sortList(head);
+        ListNode right = sortList(mid);
+        return merge(left, right);
+    }
+    
+    ListNode computeMid(ListNode head){
+        ListNode p = null;
+        while(head != null && head.next != null){
+            p = (p == null)? head: p.next;
+            head = head.next.next;
         }
+        ListNode mid = p.next;
+        p.next = null;
+        return mid;
+    }
+    
+    ListNode merge(ListNode l1, ListNode l2){
         ListNode ans = new ListNode(-1);
-        head = ans;
-        while(pq.size()!= 0){
-            head.next = pq.poll();
-            head = head.next;
+        ListNode ptr = ans;
+        while(l1 != null && l2 != null){
+            if (l1.val < l2.val){
+                ptr.next = l1;
+                l1 = l1.next;
+                ptr = ptr.next;
+            }else{
+                ptr.next = l2;
+                l2 = l2.next;
+                ptr = ptr.next;
+            }
         }
-        head.next = null;
+        ptr.next = (l1 != null) ? l1:l2;
         return ans.next;
     }
 }
