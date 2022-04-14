@@ -21,22 +21,15 @@ class Solution:
                 break
             if cur.isdigit():
                 start = True
-                if not f :
-                    if ans < (max_int-int(cur)) / 10:
+                if ans < (max_int-int(cur)) / 10:
+                    ans = ans * 10 + int(cur)
+                else:
+                    if not positive and ans < (2**31-int(cur)) / 10:
                         ans = ans * 10 + int(cur)
                     else:
-                        if not positive and ans < (2**31-int(cur)) / 10:
-                            ans = ans * 10 + int(cur)
-                        else:
-                            return max_int if positive else min_int
-                else:
-                    if ans < (max_int - int(cur)/divid) / 10:
-                        ans = ans + int(cur)/divid
-                    else:
-                        if not positive and ans < (2**31-int(cur)/divid) / 10:
-                            ans = ans * 10 + int(cur)/divid
                         return max_int if positive else min_int
-                    
+
+
             else:
                 break
         return ans if positive else -ans
