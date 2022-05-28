@@ -1,0 +1,1 @@
+datediff(DATE1, DATE2) 用于计算两个日期之间相隔的天数
