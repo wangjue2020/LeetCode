@@ -3,6 +3,8 @@ class Solution:
         nums = sorted(nums)
         ans = []
         for i in range(len(nums)):
+            if i != 0 and nums[i] == nums[i-1]:
+                continue
             first = nums[i]
             l = i+1
             r = len(nums) -1 
