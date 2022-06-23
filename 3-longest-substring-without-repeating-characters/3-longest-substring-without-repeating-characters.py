@@ -1,17 +1,27 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        second = -1
-        sub = ''
-        ans=0
-        for i in range(len(s)):
-            if s[i] not in sub:
-                second = i
-                sub += s[i]
-                ans = max(ans, len(sub))
+        left = 0
+        right = 0
+        ans = 0
+        dic = {}
+        cur = 0
+        while right < len(s):
+            if right == 0:
+                cur +=1
+                dic[s[right]] = right
+                right+= 1
             else:
-
-                ans = max(ans, len(sub))
-                ind = sub.find(s[i])
-                # first = i-len(sub)+ind
-                sub = sub[ind+1:]+s[i]
-        return ans  
+                if s[right] in dic and dic[s[right]] >= left:
+                    ans = max(ans, cur)
+                    left = dic[s[right]] + 1
+                    cur = right-left + 1
+                    dic[s[right]] = right
+                    right += 1
+                    
+                else:
+                    cur +=1
+                    dic[s[right]] = right
+                    right+= 1
+        return ans if cur <= ans else cur
+        
+        
