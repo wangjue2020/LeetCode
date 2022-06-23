@@ -3,21 +3,21 @@ class Solution:
         nums = sorted(nums)
         ans = []
         for i in range(len(nums)):
-            if i != 0 and nums[i] == nums[i-1]:
-                continue
-            cur = nums[i]
+            first = nums[i]
             l = i+1
-            r = len(nums)-1
-            while l < r:
-                addition = cur + nums[l] + nums[r]
-                if addition < 0:
-                    l+=1
-                elif addition == 0:
-                    if [cur, nums[l], nums[r]] not in ans:
-                        ans.append([cur, nums[l], nums[r]])
+            r = len(nums) -1 
+            if first > 0:
+                break
+            while l<r:
+                second = nums[l]
+                third = nums[r]
+                if first + second + third == 0:
+                    if [first, second, third] not in ans:
+                        ans.append([first, second, third])
                     l+=1
                     r-=1
+                elif first+second+third > 0:
+                    r -=1
                 else:
-                    r-=1
+                    l+=1
         return ans
-            
