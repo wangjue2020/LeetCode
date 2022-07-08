@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select sum(case when  date_format(submit_date, '%W')='Saturday' or  date_format(submit_date, '%W')='Sunday' then 1 else 0 end) as weekend_cnt, sum(case when  date_format(submit_date, '%W')!='Saturday' and  date_format(submit_date, '%W')  != 'Sunday' then 1 else 0 end) as working_cnt from tasks
