@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 08 22:55:23 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0181-de4e-ee69-00000cc41ea0 
+on database directory /Users/taoziya/Documents/GitHub/LeetCode/176-second-highest-salary/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@63c42886 
+Loaded from file:/Users/taoziya/hadoop/spark-3.0.3/jars/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_292-b10
+user.dir=/Users/taoziya/Documents/GitHub/LeetCode/176-second-highest-salary
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
