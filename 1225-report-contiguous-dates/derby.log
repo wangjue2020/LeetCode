@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 11 13:57:36 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0181-ebd5-a6c4-00000d537c70 
+on database directory /Users/taoziya/Documents/GitHub/LeetCode/1225-report-contiguous-dates/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@4a11e723 
+Loaded from file:/Users/taoziya/hadoop/spark-3.0.3/jars/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_292-b10
+user.dir=/Users/taoziya/Documents/GitHub/LeetCode/1225-report-contiguous-dates
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
